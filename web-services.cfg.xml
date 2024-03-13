@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<configuration>
+	<web-service>
+		<package>com.javaws.services</package>
+		<name>WSProduct</name>
+		<host>http://localhost</host>
+		<port>8081</port>
+		<url>/services</url>	
+	</web-service>
+	
+</configuration>
